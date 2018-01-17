@@ -5,5 +5,5 @@ layout: archive
 
 Release Announcements
 
-- Release 1...
+- [Installation Guide Version 1](https://github.com/demoorg1/project2/blob/v1/docs/Installation_guide.md)
 - Release 2...
