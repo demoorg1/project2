@@ -20,10 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: /
-url: https://demoorg1.github.io/project2
+url: https://demoorg1.github.io/project2/
 #twitter_username: mmistakes
 github_username: demoorg1
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: dirt
 
 # Build settings
 markdown: kramdown
