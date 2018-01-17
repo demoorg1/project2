@@ -3,5 +3,5 @@ main:
     url: /
   - title: "About"
     url: /about/
-#  - title: "Releases"
-#    url: /releases/
+  - title: "Releases"
+    url: /releases/
